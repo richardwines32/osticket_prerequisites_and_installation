@@ -128,7 +128,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+10.  Rename: ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php  Assign Permissions: ost-config.php  Disable inheritance -> Remove All  New Permissions -> Everyone -> All  Continue Setting up osTicket in the browser (click Continue)  Name Helpdesk  Default email (receives email from customers)
+
 </p>
 
 </p>
