@@ -67,14 +67,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-5. From the Installation Files, download and install VC_redist.x86.exe.  From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).  Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Create Password
+5. From the Installation Files, download and install VC_redist.x86.exe.  From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).  Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Create Password,
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-14 at 3 33 19 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/fbb54042-fa2b-483d-931a-938ca8fcfb0a">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 33 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/a18e41eb-a1d6-4caa-93c4-793e7f296b93">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 44 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/62aa9416-cbd3-4429-b463-271df6f2b788">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 35 06 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/93a07b6f-304a-4abe-b348-36e94d1fa100">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 31 38 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/d9da5bd8-c07d-478e-9f83-58c9390e8ff2">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 32 30 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/dff10020-5ec0-44a4-953e-9d8f1f417955">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 33 12 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/6468b1c8-c342-4dee-ac7b-86bdfa8170b5">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 34 08 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/e8107daa-7902-45ab-8155-add56cd86061">
 </p>
 
 <br />
