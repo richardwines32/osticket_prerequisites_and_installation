@@ -31,7 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
  <p>
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+2.  Part 2.  Install / Enable IIS in Windows WITH CGI and Common HTTP Features.  World Wide Web Services -> Application Development Features -> [X] CGI [X] Common HTTP Features AND IIS Management Console Internet Information Services -> Web Management Tools -> IIS Management Console [X] IIS Management Console
+
 </p>
 
 </p>
