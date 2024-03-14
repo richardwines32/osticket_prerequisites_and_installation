@@ -156,7 +156,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+12.  Continue Setting up osticket in the browser  MySQL Database: osTicket  MySQL Username: root  MySQL Password: Password1  Click “Install Now!”  Congratulations, hopefully it is installed with no errors!  Browse to your help desk login page: http://localhost/osTicket/scp/login.php  End Users osTicket URL:  http://localhost/osTicket/  Clean up  Delete: C:\inetpub\wwwroot\osTicket\setup  Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 </p>
 
 </p>
