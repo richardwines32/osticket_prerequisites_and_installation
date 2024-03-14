@@ -91,7 +91,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+7.  Install osTicket v1.15.8.  Download osTicket from the Installation Files Folder.  Extract and copy “upload” folder to c:\inetpub\wwwroot.  Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
+
 </p>
 
 </p>
