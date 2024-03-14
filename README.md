@@ -83,10 +83,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-14 at 3 33 19 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/fbb54042-fa2b-483d-931a-938ca8fcfb0a">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 33 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/a18e41eb-a1d6-4caa-93c4-793e7f296b93">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 44 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/62aa9416-cbd3-4429-b463-271df6f2b788">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 35 06 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/93a07b6f-304a-4abe-b348-36e94d1fa100">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 37 28 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/ac1af1e7-fe36-4df9-9cb9-1a3fb1217106">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 39 01 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/e70b60c1-bf4c-4a27-b7c7-e0b307d61d9a">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 39 39 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/003db350-3edb-4429-aa6a-a74fec67265f">
+<img width="1512" alt="Screenshot 2024-03-14 at 4 40 26 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/0e8c6157-8e1c-449f-8554-4fba0200afb5">
 </p>
 
 <br />
