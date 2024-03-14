@@ -116,7 +116,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+9.  Note that some extensions are not enabled.  Go back to IIS, sites -> Default -> osTicket.  Double-click PHP Manager.  Click “Enable or disable an extension”.  Enable: php_imap.dll.  Enable: php_intl.dll  Enable: php_opcache.dll  Refresh the osTicket site in your browse, observe the changes.
+
 </p>
 
 </p>
