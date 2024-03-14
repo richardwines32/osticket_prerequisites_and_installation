@@ -148,10 +148,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 </p>
-<img width="1512" alt="Screenshot 2024-03-14 at 3 33 19 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/fbb54042-fa2b-483d-931a-938ca8fcfb0a">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 33 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/a18e41eb-a1d6-4caa-93c4-793e7f296b93">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 34 44 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/62aa9416-cbd3-4429-b463-271df6f2b788">
-<img width="1512" alt="Screenshot 2024-03-14 at 3 35 06 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/93a07b6f-304a-4abe-b348-36e94d1fa100">
+<img width="1512" alt="Screenshot 2024-03-14 at 6 54 07 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/6b065efd-c52a-41e4-b344-4d19b0f78b70">
+<img width="1512" alt="Screenshot 2024-03-14 at 6 55 27 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/7fbfbdb5-e7ad-4883-bbe9-d414804669a7">
+<img width="1512" alt="Screenshot 2024-03-14 at 6 58 22 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/7a177a0e-8896-43af-8e8f-975909ab60c7">
+<img width="1512" alt="Screenshot 2024-03-14 at 6 59 34 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/4be11b2a-d248-4571-a98c-e4837cb2adc8">
+<img width="1512" alt="Screenshot 2024-03-14 at 7 01 36 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/dd092ce3-8d5c-4fea-9be8-439fcb9a4437">
+<img width="1512" alt="Screenshot 2024-03-14 at 7 04 20 PM" src="https://github.com/richardwines32/osticket_prerequisites_and_installation/assets/162821778/8bc731c0-0ea8-41b5-98ca-736fb8878f66">
 </p>
 
 <br />
