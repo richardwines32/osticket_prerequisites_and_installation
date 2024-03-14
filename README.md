@@ -56,8 +56,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-4.  
-Create the directory C:\PHP.  From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP.
+4.  Create the directory C:\PHP.  From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP.
 </p>
 
 </p>
@@ -68,7 +67,7 @@ Create the directory C:\PHP.  From the Installation Files, download PHP 7.3.8 (p
 
 <br />
 
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+5. From the Installation Files, download and install VC_redist.x86.exe.  From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).  Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Create Password
 </p>
 
 </p>
