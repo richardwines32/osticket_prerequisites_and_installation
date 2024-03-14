@@ -56,7 +56,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+4.  
+Create the directory C:\PHP.  From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP.
 </p>
 
 </p>
