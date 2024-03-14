@@ -143,7 +143,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-1.  Part 1 (Create Virtual Machine in Azure).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.  When creating the VM, allow it to create a new Virtual Network (Vnet).
+11.  Continue Setting up osTicket in the browser (click Continue).  Name Helpdesk Default email (receives email from customers).  From the Installation Files, download and install HeidiSQL.  Open Heidi SQL.  Create a new session, root/Password1  Connect to the session.  Create a database called “osTicket”.
+
 </p>
 
 </p>
